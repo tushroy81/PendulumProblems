@@ -1,5 +1,4 @@
 # Inverted Pendulum
-#### Implementation of control laws on simulated inverted pendulum on ros2
 
 ![Output sample](illustrations/screen-capture.gif)
 
