@@ -8,7 +8,7 @@ source install/setup.bash
 ```
 3. You can now launch the simulation
 
-   **Single Inverted Pendulum - Balance**
+**Single Inverted Pendulum - Balance**
 ```
 ros2 launch single_inverted single_inverted_pendulum.launch.py
 ```
