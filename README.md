@@ -1,9 +1,4 @@
 # Inverted Pendulum
-
-![Output sample](illustrations/screen-capture.gif)
-
-## Exercises
-![Output sample](illustrations/diagram.gif)
 #### 1) Single Inverted Pendulum
 - **Interface** - Crete a new node which subscribes to state feedback and publishes to torque input. Give torque and check if the pendulum is behaving appropriately (You can add this node to the launch file later)
 - **Balance** [Initial state - near upright] Write a controller to balance the inverted pendulum with initial state near upright position and not exactly upright
